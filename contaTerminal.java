@@ -1,4 +1,4 @@
-
+package contaBanco;
 import java.util.Scanner;
 
 public class contaTerminal {
