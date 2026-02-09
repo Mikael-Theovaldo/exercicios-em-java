@@ -1,4 +1,4 @@
-package conteudos;
+package assuntos.conteudos;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package desafios_DIO.controleDeFluxo;
-
-import java.util.Scanner;
+package desafios_DIO.sintaxeBasica.controleDeFluxo;
 
 public class Contador {
     public void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {

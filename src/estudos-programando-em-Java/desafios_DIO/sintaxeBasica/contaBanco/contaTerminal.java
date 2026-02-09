@@ -1,4 +1,4 @@
-package desafios_DIO.contaBanco;
+package desafios_DIO.sintaxeBasica.contaBanco;
 
 import java.util.Scanner;
 
