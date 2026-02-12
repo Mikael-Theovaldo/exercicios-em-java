@@ -1,0 +1,24 @@
+# Ignorar arquivos compilados e de build
+/out/
+/bin/
+/build/
+/target/
+*.class
+
+# Logs
+*.log
+
+# Configurações de IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Arquivos temporários e de sistema
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

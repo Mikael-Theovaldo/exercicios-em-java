@@ -9,6 +9,6 @@ public class OrdenacaoPessoa {
         this.pessoaList = pessoaList;
     }
      public void adicionarPessoa(String nome, int idade, double altura){
-        pessoaList.add(new OrdenacaoPessoa(nome,idade,altura));
+       // pessoaList.add(new OrdenacaoPessoa(nome,idade,altura));
      }
 }
