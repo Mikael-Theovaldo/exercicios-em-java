@@ -1,4 +1,4 @@
-package conteudos.list.operacoesBasicas.tarefaList;
+package conteudos.list.exercicios.tarefaList;
 
 import java.util.ArrayList;
 import java.util.List;

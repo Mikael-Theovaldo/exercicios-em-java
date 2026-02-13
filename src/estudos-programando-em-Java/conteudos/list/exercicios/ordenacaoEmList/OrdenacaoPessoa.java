@@ -1,4 +1,4 @@
-package conteudos.list.operacoesBasicas.ordenacaoEmList;
+package conteudos.list.exercicios.ordenacaoEmList;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package conteudos.map.exercicios.agenda;
+package conteudos.map.exercicios.agendaDeContato;
 
 public class Main {
     public static void main(String[] args) {
